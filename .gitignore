@@ -1,0 +1,39 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+gradle
+
+forge-1.10.2-12.18.2.2099-changelog.txt
+CREDITS-fml.txt
+README.txt
+Paulscode SoundSystem CodecIBXM License.txt
+MinecraftForge-Credits.txt
+gradlew
+LICENSE-new.txt
+Paulscode IBXM Library License.txt
+build.gradle
+gradlew.bat
+src/main/resources
+src/main/java/firemerald/renderapi/ASMPlugin.java
+src/main/java/firemerald/renderapi/Container.java
+src/main/java/firemerald/renderapi/Renderer.java
+src/main/java/firemerald/renderapi/Transformer.java
